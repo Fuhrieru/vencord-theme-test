@@ -468,9 +468,6 @@ div[class*=members] {
   background-color: var(--synqats-gb-bg-word);
 }
 
-main[class*=chatContent] {
-  background-color: var(--synqats-gb-bg-word);
-}
 
 [class*=member] [class*=subText] {
   display: flex;
